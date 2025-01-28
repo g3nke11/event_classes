@@ -1,0 +1,15 @@
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\bin\Debug\net8.0\Foundation3.exe
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\bin\Debug\net8.0\Foundation3.deps.json
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\bin\Debug\net8.0\Foundation3.runtimeconfig.json
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\bin\Debug\net8.0\Foundation3.dll
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\bin\Debug\net8.0\Foundation3.pdb
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.AssemblyInfoInputs.cache
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.AssemblyInfo.cs
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.csproj.CoreCompileInputs.cache
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.sourcelink.json
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.dll
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\refint\Foundation3.dll
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.pdb
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\Foundation3.genruntimeconfig.cache
+D:\Users\kelle\Documents\BYUI\Fall 2024\cse210-hw\final\Foundation3\obj\Debug\net8.0\ref\Foundation3.dll
